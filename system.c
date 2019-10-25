@@ -28,7 +28,7 @@ int main()
 	icecream[0].name[100] = "Strawberry\0";
 	icecream[0].price = 35;
 	icecream[0].type[100] = "cone\0";
-	printf("Welcome to the parler!\nPlease choose your choice:\n");
+	printf("Welcome to the parlour!\nPlease choose your choice:\n");
 	printf("1.Add Ice-cream\n");
 	printf("2.Display All Ice-cream\n");
 	printf("3.Search Available Ice-cream\n");
