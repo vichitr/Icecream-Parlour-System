@@ -1,5 +1,5 @@
 /*
-	Ice Cream Parler System
+	Ice Cream Parlour System
 
 	@Author: Vichitr
 
